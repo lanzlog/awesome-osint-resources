@@ -95,6 +95,7 @@ A curated list of OSINT (Open Source Intelligence) tools, techniques, and resour
 | [ExifTool](https://exiftool.org/) | Read/write image metadata |
 | [Jeffrey's Image Metadata Viewer](http://exif.regex.info/) | Online EXIF viewer |
 | [Forensically](https://29a.ch/photo-forensics/) | Image forensics toolkit |
+| [CheckThatPhoto](https://checkthatphoto.com/) | Check a photo for signs of AI generation and read the limits of the finding |
 | [FotoForensics](https://fotoforensics.com/) | Error Level Analysis for images |
 | [JPEGsnoop](https://github.com/ImpulseAdventure/JPEGsnoop) | JPEG decoder and analysis |
 
